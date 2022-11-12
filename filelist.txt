@@ -1,0 +1,729 @@
+./.git/HEAD
+./.git/config
+./.git/description
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/update.sample
+./.git/index
+./.git/info/exclude
+./.git/logs/HEAD
+./.git/logs/refs/heads/main
+./.git/logs/refs/remotes/origin/HEAD
+./.git/objects/pack/pack-63cc0c0d1929417addb6a6aa7cf5f6308775ebfc.idx
+./.git/objects/pack/pack-63cc0c0d1929417addb6a6aa7cf5f6308775ebfc.pack
+./.git/packed-refs
+./.git/refs/heads/main
+./.git/refs/remotes/origin/HEAD
+./.git/shallow
+./.gitattributes
+./README.md
+./filelist.txt
+./hololive/hololive_discography_cdn/20200829_湊あくあ_#あくあ色ぱれっと/01_#あくあ色ぱれっと.flac
+./hololive/hololive_discography_cdn/20200829_湊あくあ_#あくあ色ぱれっと/02_#あくあ色ぱれっと(Instrumental).flac
+./hololive/hololive_discography_cdn/20200829_湊あくあ_#あくあ色ぱれっと/cover.jpg
+./hololive/hololive_discography_cdn/20200829_湊あくあ_#あくあ色ぱれっと/dj.ncprvyfd.jpeg
+./hololive/hololive_discography_cdn/20201116_白上フブキ_Say!ファンファーレ!/01_Say!ファンファーレ!.flac
+./hololive/hololive_discography_cdn/20201116_白上フブキ_Say!ファンファーレ!/02_Say!ファンファーレ!(Instrumental).flac
+./hololive/hololive_discography_cdn/20201116_白上フブキ_Say!ファンファーレ!/4580625825517_art.jpg
+./hololive/hololive_discography_cdn/20201116_白上フブキ_Say!ファンファーレ!/cover.jpg
+./hololive/hololive_discography_cdn/20201231_hololive IDOL PROJECT_百花繚乱花吹雪/01_百花繚乱花吹雪.flac
+./hololive/hololive_discography_cdn/20201231_hololive IDOL PROJECT_百花繚乱花吹雪/02_百花繚乱花吹雪(Instrumental).flac
+./hololive/hololive_discography_cdn/20201231_hololive IDOL PROJECT_百花繚乱花吹雪/4580625826002_art.png
+./hololive/hololive_discography_cdn/20201231_hololive IDOL PROJECT_百花繚乱花吹雪/Cover.jpg
+./hololive/hololive_discography_cdn/20210202_Mori Calliope_Off With Their Heads/01_Off With Their Heads.flac
+./hololive/hololive_discography_cdn/20210202_Mori Calliope_Off With Their Heads/Cover.jpg
+./hololive/hololive_discography_cdn/20210204_hololive IDOL PROJECT_STARDUST SONG/01_STARDUST SONG.flac
+./hololive/hololive_discography_cdn/20210204_hololive IDOL PROJECT_STARDUST SONG/02_STARDUST SONG (Instrumental).flac
+./hololive/hololive_discography_cdn/20210204_hololive IDOL PROJECT_STARDUST SONG/Cover.jpg
+./hololive/hololive_discography_cdn/20210211_hololive IDOL PROJECT_Dreaming Days/01_Dreaming Days.flac
+./hololive/hololive_discography_cdn/20210211_hololive IDOL PROJECT_Dreaming Days/02_Dreaming Days (Instrumental).flac
+./hololive/hololive_discography_cdn/20210211_hololive IDOL PROJECT_Dreaming Days/Cover.jpg
+./hololive/hololive_discography_cdn/20210218_アキ・ローゼンタール_ヒロインオーディション/01_ヒロインオーディション.flac
+./hololive/hololive_discography_cdn/20210218_アキ・ローゼンタール_ヒロインオーディション/02_ヒロインオーディション (Instrumental).flac
+./hololive/hololive_discography_cdn/20210218_アキ・ローゼンタール_ヒロインオーディション/Cover.jpg
+./hololive/hololive_discography_cdn/20210219_hololive IDOL PROJECT_あすいろClearSky/01_あすいろClearSky.flac
+./hololive/hololive_discography_cdn/20210219_hololive IDOL PROJECT_あすいろClearSky/02_あすいろClearSky (Instrumental).flac
+./hololive/hololive_discography_cdn/20210219_hololive IDOL PROJECT_あすいろClearSky/4580625826606_art.png
+./hololive/hololive_discography_cdn/20210219_hololive IDOL PROJECT_あすいろClearSky/Cover.jpg
+./hololive/hololive_discography_cdn/20210223_猫又おかゆ_もぐもぐYUMMY!/01_もぐもぐYUMMY!.flac
+./hololive/hololive_discography_cdn/20210223_猫又おかゆ_もぐもぐYUMMY!/Cover.jpg
+./hololive/hololive_discography_cdn/20210225_Gimme吟味virtuaる最高star!!!! (feat. さくらみこ, 白上フブキ, 夏色まつり & 宝鐘マリン)/01_Gimme吟味virtuaる最高star!!!! (feat. さくらみこ, 白上フブキ, 夏色まつり & 宝鐘マリン).flac
+./hololive/hololive_discography_cdn/20210225_Gimme吟味virtuaる最高star!!!! (feat. さくらみこ, 白上フブキ, 夏色まつり & 宝鐘マリン)/Cover.jpg
+./hololive/hololive_discography_cdn/20210226_常闇トワ_Palette/01_Palette.flac
+./hololive/hololive_discography_cdn/20210226_常闇トワ_Palette/Cover.jpg
+./hololive/hololive_discography_cdn/20210303_桃鈴ねね_ねねねねねねねね!大爆走/01_ねねねねねねねね!大爆走.flac
+./hololive/hololive_discography_cdn/20210303_桃鈴ねね_ねねねねねねねね!大爆走/02_ねねねねねねねね!大爆走 (Instrumental).flac
+./hololive/hololive_discography_cdn/20210303_桃鈴ねね_ねねねねねねねね!大爆走/Cover.jpg
+./hololive/hololive_discography_cdn/20210307_Mori Calliope_居場所/01_居場所.flac
+./hololive/hololive_discography_cdn/20210307_Mori Calliope_居場所/Cover.jpg
+./hololive/hololive_discography_cdn/20210314_Hololive English -Myth- Image Soundtrack/01_Lively Bopping to Death's Knocking.flac
+./hololive/hololive_discography_cdn/20210314_Hololive English -Myth- Image Soundtrack/02_Krispy Fry-fry Party.flac
+./hololive/hololive_discography_cdn/20210314_Hololive English -Myth- Image Soundtrack/03_Kanalumi.flac
+./hololive/hololive_discography_cdn/20210314_Hololive English -Myth- Image Soundtrack/04_Sharkventure!!.flac
+./hololive/hololive_discography_cdn/20210314_Hololive English -Myth- Image Soundtrack/05_Misteavous Myth-buster.flac
+./hololive/hololive_discography_cdn/20210314_Hololive English -Myth- Image Soundtrack/Cover.jpg
+./hololive/hololive_discography_cdn/20210322_Moona Hoshinova_愛の小さな歌/01_愛の小さな歌.flac
+./hololive/hololive_discography_cdn/20210322_Moona Hoshinova_愛の小さな歌/02_愛の小さな歌 (Instrumental).flac
+./hololive/hololive_discography_cdn/20210322_Moona Hoshinova_愛の小さな歌/Cover.jpg
+./hololive/hololive_discography_cdn/20210403_不知火フレア_Smile & Go!!/01_Smile & Go!!.flac
+./hololive/hololive_discography_cdn/20210403_不知火フレア_Smile & Go!!/02_Smile & Go!! (Instrumental).flac
+./hololive/hololive_discography_cdn/20210403_不知火フレア_Smile & Go!!/Cover.jpg
+./hololive/hololive_discography_cdn/20210404_Mori Calliope_Your Mori/01_The Grim Reaper is a Live-Streamer.flac
+./hololive/hololive_discography_cdn/20210404_Mori Calliope_Your Mori/02_Red.flac
+./hololive/hololive_discography_cdn/20210404_Mori Calliope_Your Mori/03_guh.flac
+./hololive/hololive_discography_cdn/20210404_Mori Calliope_Your Mori/04_いじめっ子Bully.flac
+./hololive/hololive_discography_cdn/20210404_Mori Calliope_Your Mori/Cover.jpg
+./hololive/hololive_discography_cdn/20210407_hololive Indonesia_id：entity voices/01_id：entity voices.flac
+./hololive/hololive_discography_cdn/20210407_hololive Indonesia_id：entity voices/02_id：entity voices (Japanese ver.).flac
+./hololive/hololive_discography_cdn/20210407_hololive Indonesia_id：entity voices/03_id：entity voices (Instrumental).flac
+./hololive/hololive_discography_cdn/20210407_hololive Indonesia_id：entity voices/Cover.jpg
+./hololive/hololive_discography_cdn/20210414_戌神ころね_ころねの最凶天災☆わんだふぉー♡わーるど/01_ころねの最凶天災わんだふぉーわーるど.flac
+./hololive/hololive_discography_cdn/20210414_戌神ころね_ころねの最凶天災☆わんだふぉー♡わーるど/02_ころねの最凶天災わんだふぉーわーるど (Instrumental).flac
+./hololive/hololive_discography_cdn/20210414_戌神ころね_ころねの最凶天災☆わんだふぉー♡わーるど/Cover.jpg
+./hololive/hololive_discography_cdn/20210419_桃鈴ねね_Lunch with me/01_Lunch with me.flac
+./hololive/hololive_discography_cdn/20210419_桃鈴ねね_Lunch with me/02_Lunch with me (Instrumental).flac
+./hololive/hololive_discography_cdn/20210419_桃鈴ねね_Lunch with me/Cover.jpg
+./hololive/hololive_discography_cdn/20210515_hololive 1st Generation_Plasmagic Seasons!/01_Plasmagic Seasons!.flac
+./hololive/hololive_discography_cdn/20210515_hololive 1st Generation_Plasmagic Seasons!/02_Plasmagic Seasons! (Instrumental).flac
+./hololive/hololive_discography_cdn/20210515_hololive 1st Generation_Plasmagic Seasons!/210510_from1st-artwork_fix_1.png
+./hololive/hololive_discography_cdn/20210515_hololive 1st Generation_Plasmagic Seasons!/Cover.jpg
+./hololive/hololive_discography_cdn/20210625_hololive 4th Generation_キセキ結び/01_キセキ結び.flac
+./hololive/hololive_discography_cdn/20210625_hololive 4th Generation_キセキ結び/02_キセキ結び(Instrumental).flac
+./hololive/hololive_discography_cdn/20210625_hololive 4th Generation_キセキ結び/cover.jpg
+./hololive/hololive_discography_cdn/20210625_hololive 4th Generation_キセキ結び/dj.jdxfzkjt.jpeg
+./hololive/hololive_discography_cdn/20210712_IRyS_Caesura of Despair/01_Caesura of Despair.flac
+./hololive/hololive_discography_cdn/20210712_IRyS_Caesura of Despair/02_diorama.flac
+./hololive/hololive_discography_cdn/20210712_IRyS_Caesura of Despair/03_HERE COMES HOPE.flac
+./hololive/hololive_discography_cdn/20210712_IRyS_Caesura of Despair/04_Caesura of Despair (Attacca Ver.).flac
+./hololive/hololive_discography_cdn/20210712_IRyS_Caesura of Despair/4580625828471_art.png
+./hololive/hololive_discography_cdn/20210712_IRyS_Caesura of Despair/Cover.jpg
+./hololive/hololive_discography_cdn/20210723_夏色まつり_HiHiハイテンション！/01_HiHiハイテンション！.flac
+./hololive/hololive_discography_cdn/20210723_夏色まつり_HiHiハイテンション！/02_HiHiハイテンション！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20210723_夏色まつり_HiHiハイテンション！/4580625828839_art.png
+./hololive/hololive_discography_cdn/20210723_夏色まつり_HiHiハイテンション！/Cover.jpg
+./hololive/hololive_discography_cdn/20210806_Ninomae Ina'nis_VIOLET/01_VIOLET.flac
+./hololive/hololive_discography_cdn/20210806_Ninomae Ina'nis_VIOLET/Cover.jpg
+./hololive/hololive_discography_cdn/20210806_Ninomae Ina'nis_VIOLET/ina_violet_cover_art_3000px.png
+./hololive/hololive_discography_cdn/20210810_湊あくあ_海想列車/01_海想列車.flac
+./hololive/hololive_discography_cdn/20210810_湊あくあ_海想列車/02_海想列車 (Instrumental).flac
+./hololive/hololive_discography_cdn/20210810_湊あくあ_海想列車/4580625828969_art.jpg
+./hololive/hololive_discography_cdn/20210810_湊あくあ_海想列車/Cover.jpg
+./hololive/hololive_discography_cdn/20210812_宝鐘マリン_Unison/01_Unison.flac
+./hololive/hololive_discography_cdn/20210812_宝鐘マリン_Unison/02_Unison (Instrumental).flac
+./hololive/hololive_discography_cdn/20210812_宝鐘マリン_Unison/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210812_宝鐘マリン_Unison/Cover.jpg
+./hololive/hololive_discography_cdn/20210814_桃鈴ねね_モモノネ/01_モモノネ.flac
+./hololive/hololive_discography_cdn/20210814_桃鈴ねね_モモノネ/02_モモノネ (Instrumental).flac
+./hololive/hololive_discography_cdn/20210814_桃鈴ねね_モモノネ/4580625829027_art.png
+./hololive/hololive_discography_cdn/20210814_桃鈴ねね_モモノネ/Cover.jpg
+./hololive/hololive_discography_cdn/20210815_獅白ぼたん_Lioness' Pride/01_Lioness' Pride.flac
+./hololive/hololive_discography_cdn/20210815_獅白ぼたん_Lioness' Pride/02_Lioness' Pride (Instrumental).flac
+./hololive/hololive_discography_cdn/20210815_獅白ぼたん_Lioness' Pride/4580625829034_art.png
+./hololive/hololive_discography_cdn/20210815_獅白ぼたん_Lioness' Pride/Cover.jpg
+./hololive/hololive_discography_cdn/20210817_尾丸ポルカ_ぽ/01_ぽ.flac
+./hololive/hololive_discography_cdn/20210817_尾丸ポルカ_ぽ/02_ぽ (Instrumental).flac
+./hololive/hololive_discography_cdn/20210817_尾丸ポルカ_ぽ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210817_尾丸ポルカ_ぽ/Cover.jpg
+./hololive/hololive_discography_cdn/20210818_紫咲シオン_メイジ・オブ・ヴァイオレット/01_メイジ・オブ・ヴァイオレット.flac
+./hololive/hololive_discography_cdn/20210818_紫咲シオン_メイジ・オブ・ヴァイオレット/02_メイジ・オブ・ヴァイオレット (Instrumental).flac
+./hololive/hololive_discography_cdn/20210818_紫咲シオン_メイジ・オブ・ヴァイオレット/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210818_紫咲シオン_メイジ・オブ・ヴァイオレット/Cover.jpg
+./hololive/hololive_discography_cdn/20210820_角巻わため_mayday、mayday/01_mayday、mayday.flac
+./hololive/hololive_discography_cdn/20210820_角巻わため_mayday、mayday/02_mayday、mayday (Instrumental).flac
+./hololive/hololive_discography_cdn/20210820_角巻わため_mayday、mayday/3500x3500bb.png
+./hololive/hololive_discography_cdn/20210820_角巻わため_mayday、mayday/Cover.jpg
+./hololive/hololive_discography_cdn/20210821_大神ミオ_Howling/01_Howling.flac
+./hololive/hololive_discography_cdn/20210821_大神ミオ_Howling/02_わんわんわおーん.flac
+./hololive/hololive_discography_cdn/20210821_大神ミオ_Howling/03_Howling (Instrumental).flac
+./hololive/hololive_discography_cdn/20210821_大神ミオ_Howling/04_わんわんわおーん (Instrumental).flac
+./hololive/hololive_discography_cdn/20210821_大神ミオ_Howling/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210821_大神ミオ_Howling/Cover.jpg
+./hololive/hololive_discography_cdn/20210822_星街すいせい_自分勝手Dazzling／バイバイレイニー/01_自分勝手Dazzling.flac
+./hololive/hololive_discography_cdn/20210822_星街すいせい_自分勝手Dazzling／バイバイレイニー/02_バイバイレイニー.flac
+./hololive/hololive_discography_cdn/20210822_星街すいせい_自分勝手Dazzling／バイバイレイニー/03_自分勝手Dazzling (Instrumental).flac
+./hololive/hololive_discography_cdn/20210822_星街すいせい_自分勝手Dazzling／バイバイレイニー/04_バイバイレイニー (Instrumental).flac
+./hololive/hololive_discography_cdn/20210822_星街すいせい_自分勝手Dazzling／バイバイレイニー/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210822_星街すいせい_自分勝手Dazzling／バイバイレイニー/Cover.jpg
+./hololive/hololive_discography_cdn/20210827_尾丸ポルカ_エヴァーブルー/01_エヴァーブルー.flac
+./hololive/hololive_discography_cdn/20210827_尾丸ポルカ_エヴァーブルー/02_エヴァーブルー (Instrumental).flac
+./hololive/hololive_discography_cdn/20210827_尾丸ポルカ_エヴァーブルー/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210827_尾丸ポルカ_エヴァーブルー/Cover.jpg
+./hololive/hololive_discography_cdn/20210828_大神ミオ_さしみお (feat.スバおか)/01_さしみお (feat.スバおか).flac
+./hololive/hololive_discography_cdn/20210828_大神ミオ_さしみお (feat.スバおか)/3001x3001bb.png
+./hololive/hololive_discography_cdn/20210828_大神ミオ_さしみお (feat.スバおか)/Cover.jpg
+./hololive/hololive_discography_cdn/20210829_さくらみこ_花月ノ夢/01_花月ノ夢.flac
+./hololive/hololive_discography_cdn/20210829_さくらみこ_花月ノ夢/02_花月ノ夢 (Instrumental).flac
+./hololive/hololive_discography_cdn/20210829_さくらみこ_花月ノ夢/03_花月ノ夢_diff.flac
+./hololive/hololive_discography_cdn/20210829_さくらみこ_花月ノ夢/3161x3161bb.png
+./hololive/hololive_discography_cdn/20210829_さくらみこ_花月ノ夢/Cover.jpg
+./hololive/hololive_discography_cdn/20210905_癒月ちょこ_ChocoLove/01_ChocoLove.flac
+./hololive/hololive_discography_cdn/20210905_癒月ちょこ_ChocoLove/02_ChocoLove (Instrumental).flac
+./hololive/hololive_discography_cdn/20210905_癒月ちょこ_ChocoLove/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210905_癒月ちょこ_ChocoLove/Cover.jpg
+./hololive/hololive_discography_cdn/20210910_Pavolia Reine_Gate Open：START!/01_Gate Open‛：START!.flac
+./hololive/hololive_discography_cdn/20210910_Pavolia Reine_Gate Open：START!/02_Gate Open‛：START! (Japanese Ver.).flac
+./hololive/hololive_discography_cdn/20210910_Pavolia Reine_Gate Open：START!/03_Gate Open‛：START! (Instrumental).flac
+./hololive/hololive_discography_cdn/20210910_Pavolia Reine_Gate Open：START!/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210910_Pavolia Reine_Gate Open：START!/Cover.jpg
+./hololive/hololive_discography_cdn/20210910_角巻わため_Everlasting Soul/01_Everlasting Soul.flac
+./hololive/hololive_discography_cdn/20210910_角巻わため_Everlasting Soul/02_Everlasting Soul (Instrumental).flac
+./hololive/hololive_discography_cdn/20210910_角巻わため_Everlasting Soul/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210910_角巻わため_Everlasting Soul/Cover.jpg
+./hololive/hololive_discography_cdn/20210919_UMISEA_浸食!! 地球全域全おーしゃん/01_浸食!! 地球全域全おーしゃん.flac
+./hololive/hololive_discography_cdn/20210919_UMISEA_浸食!! 地球全域全おーしゃん/02_浸食!! 地球全域全おーしゃん (Instrumental).flac
+./hololive/hololive_discography_cdn/20210919_UMISEA_浸食!! 地球全域全おーしゃん/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210919_UMISEA_浸食!! 地球全域全おーしゃん/Cover.jpg
+./hololive/hololive_discography_cdn/20210925_ロボ子さん_コトノハ/01_コトノハ.flac
+./hololive/hololive_discography_cdn/20210925_ロボ子さん_コトノハ/02_コトノハ (Instrumental).flac
+./hololive/hololive_discography_cdn/20210925_ロボ子さん_コトノハ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210925_ロボ子さん_コトノハ/Cover.jpg
+./hololive/hololive_discography_cdn/20210926_湊あくあ_aqua iro palette/01_aqua iro palette.flac
+./hololive/hololive_discography_cdn/20210926_湊あくあ_aqua iro palette/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210926_湊あくあ_aqua iro palette/Cover.jpg
+./hololive/hololive_discography_cdn/20210927_白銀ノエル_ほめのび/01_ほめのび.flac
+./hololive/hololive_discography_cdn/20210927_白銀ノエル_ほめのび/02_ほめのび (Instrumental).flac
+./hololive/hololive_discography_cdn/20210927_白銀ノエル_ほめのび/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210927_白銀ノエル_ほめのび/Cover.jpg
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/01_Stellar Stellar.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/02_NEXT COLOR PLANET.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/03_天球、彗星は夜を跨いで.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/04_GHOST.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/05_バイバイレイニー.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/06_自分勝手Dazzling.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/07_Bluerose.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/08_comet.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/09_Andromeda.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/10_Je t'aime。.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/11_Starry Jet.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/12_駆けろ.flac
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/3000x3000bb.png
+./hololive/hololive_discography_cdn/20210929_星街すいせい_Still Still Stellar/Cover.jpg
+./hololive/hololive_discography_cdn/20211001_Mori Calliope_end of a life/01_end of a life.flac
+./hololive/hololive_discography_cdn/20211001_Mori Calliope_end of a life/02_end of a life (Instrumental).flac
+./hololive/hololive_discography_cdn/20211001_Mori Calliope_end of a life/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211001_Mori Calliope_end of a life/Cover.jpg
+./hololive/hololive_discography_cdn/20211003_百鬼あやめ_宵の余、良い！/01_宵の余、良い！.flac
+./hololive/hololive_discography_cdn/20211003_百鬼あやめ_宵の余、良い！/02_宵の余、良い！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20211003_百鬼あやめ_宵の余、良い！/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211003_百鬼あやめ_宵の余、良い！/Cover.jpg
+./hololive/hololive_discography_cdn/20211008_大空スバル_ぷ・れ・あ・で・す！/01_ぷ・れ・あ・で・す！.flac
+./hololive/hololive_discography_cdn/20211008_大空スバル_ぷ・れ・あ・で・す！/02_ぷ・れ・あ・で・す！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20211008_大空スバル_ぷ・れ・あ・で・す！/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211008_大空スバル_ぷ・れ・あ・で・す！/Cover.jpg
+./hololive/hololive_discography_cdn/20211014_天音かなた&常闇トワ_マドロミ/01_マドロミ.flac
+./hololive/hololive_discography_cdn/20211014_天音かなた&常闇トワ_マドロミ/02_マドロミ (Instrumental).flac
+./hololive/hololive_discography_cdn/20211014_天音かなた&常闇トワ_マドロミ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211014_天音かなた&常闇トワ_マドロミ/Cover.jpg
+./hololive/hololive_discography_cdn/20211024_夜空メル_かぷっとNightSky/01_かぷっとNightSky.flac
+./hololive/hololive_discography_cdn/20211024_夜空メル_かぷっとNightSky/02_かぷっとNightSky (Instrumental).flac
+./hololive/hololive_discography_cdn/20211024_夜空メル_かぷっとNightSky/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211024_夜空メル_かぷっとNightSky/Cover.jpg
+./hololive/hololive_discography_cdn/20211109_湊あくあ_きらきら/01_きらきら.flac
+./hololive/hololive_discography_cdn/20211109_湊あくあ_きらきら/02_きらきら (Instrumental).flac
+./hololive/hololive_discography_cdn/20211109_湊あくあ_きらきら/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211109_湊あくあ_きらきら/Cover.jpg
+./hololive/hololive_discography_cdn/20211116_雪花ラミィ_明日への境界線/01_明日への境界線.flac
+./hololive/hololive_discography_cdn/20211116_雪花ラミィ_明日への境界線/02_明日への境界線 (Instrumental).flac
+./hololive/hololive_discography_cdn/20211116_雪花ラミィ_明日への境界線/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211116_雪花ラミィ_明日への境界線/Cover.jpg
+./hololive/hololive_discography_cdn/20211122_ホロライブファンタジー_いんたらくとふぁんたじあ/01_いんたらくとふぁんたじあ.flac
+./hololive/hololive_discography_cdn/20211122_ホロライブファンタジー_いんたらくとふぁんたじあ/02_いんたらくとふぁんたじあ (Instrumental).flac
+./hololive/hololive_discography_cdn/20211122_ホロライブファンタジー_いんたらくとふぁんたじあ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211122_ホロライブファンタジー_いんたらくとふぁんたじあ/Cover.jpg
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/01_Caesura of Despair (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/02_Bluerose (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/03_特者生存ワンダラダー!! (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/04_BLUE CLAPPER (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/05_今宵はHalloween Night! (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/06_mayday,mayday (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/07_Lioness’ Pride (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/08_VIOLET (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/09_あすいろClearSky (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/10_STARDUST SONG (Twilight ver.).flac
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211127_hololive music studio_hololive music studio - Twilight/Cover.jpg
+./hololive/hololive_discography_cdn/20211202_湊あくあ_uni-birth/01_uni-birth.flac
+./hololive/hololive_discography_cdn/20211202_湊あくあ_uni-birth/02_uni-birth (Instrumental).flac
+./hololive/hololive_discography_cdn/20211202_湊あくあ_uni-birth/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211202_湊あくあ_uni-birth/Cover.jpg
+./hololive/hololive_discography_cdn/20211207_白上フブキ,大神ミオ_わくわくエブリデイ/01_わくわくエブリデイ.flac
+./hololive/hololive_discography_cdn/20211207_白上フブキ,大神ミオ_わくわくエブリデイ/02_わくわくエブリデイ (Instrumental).flac
+./hololive/hololive_discography_cdn/20211207_白上フブキ,大神ミオ_わくわくエブリデイ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211207_白上フブキ,大神ミオ_わくわくエブリデイ/cover.jpg
+./hololive/hololive_discography_cdn/20211227_さくらみこ_マイネームイズエリート☆/01_マイネームイズエリート☆.flac
+./hololive/hololive_discography_cdn/20211227_さくらみこ_マイネームイズエリート☆/02_マイネームイズエリート☆ (Instrumental).flac
+./hololive/hololive_discography_cdn/20211227_さくらみこ_マイネームイズエリート☆/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211227_さくらみこ_マイネームイズエリート☆/Cover.jpg
+./hololive/hololive_discography_cdn/20211227_天音かなた_天使のagape/01_天使のagape.flac
+./hololive/hololive_discography_cdn/20211227_天音かなた_天使のagape/02_天使のagape (Instrumental).flac
+./hololive/hololive_discography_cdn/20211227_天音かなた_天使のagape/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211227_天音かなた_天使のagape/Cover.jpg
+./hololive/hololive_discography_cdn/20211229_Mori Calliope_Dawn Blue/01_Dawn Blue.flac
+./hololive/hololive_discography_cdn/20211229_Mori Calliope_Dawn Blue/02_Dawn Blue (Instrumental).flac
+./hololive/hololive_discography_cdn/20211229_Mori Calliope_Dawn Blue/Album_Static_1x1_holoalt_DAWNBLUE.png
+./hololive/hololive_discography_cdn/20211229_Mori Calliope_Dawn Blue/Cover.jpg
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/01_おはようのうた.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/02_mayday, mayday.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/03_キミだけのメロディ.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/04_sweet night, sweet time….flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/05_ゼロの足跡.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/06_Everlasting Soul.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/07_Holidays!.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/08_御伽の詩と永久なるミライ.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/09_RAINBOW.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/10_My song.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/11_ししわたクッキング.flac
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/3000x3000bb.png
+./hololive/hololive_discography_cdn/20211230_角巻わため_わためのうた vol.2/Cover.jpg
+./hololive/hololive_discography_cdn/20220101_いろはにほへっと あやふぶみ_おにけもだんす/01_おにけもだんす.flac
+./hololive/hololive_discography_cdn/20220101_いろはにほへっと あやふぶみ_おにけもだんす/02_おにけもだんす (Instrumental).flac
+./hololive/hololive_discography_cdn/20220101_いろはにほへっと あやふぶみ_おにけもだんす/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220101_いろはにほへっと あやふぶみ_おにけもだんす/Cover.jpg
+./hololive/hololive_discography_cdn/20220103_さくらみこ&戌神ころね_みっころね×しょうたいむ!!/01_みっころね×しょうたいむ!!.flac
+./hololive/hololive_discography_cdn/20220103_さくらみこ&戌神ころね_みっころね×しょうたいむ!!/02_みっころね×しょうたいむ!! (Instrumental).flac
+./hololive/hololive_discography_cdn/20220103_さくらみこ&戌神ころね_みっころね×しょうたいむ!!/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220103_さくらみこ&戌神ころね_みっころね×しょうたいむ!!/Cover.jpg
+./hololive/hololive_discography_cdn/20220104_常闇トワ_FACT/01_FACT.flac
+./hololive/hololive_discography_cdn/20220104_常闇トワ_FACT/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220104_常闇トワ_FACT/Cover.jpg
+./hololive/hololive_discography_cdn/20220111_常闇トワ_マイロア/01_マイロア.flac
+./hololive/hololive_discography_cdn/20220111_常闇トワ_マイロア/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220111_常闇トワ_マイロア/Cover.jpg
+./hololive/hololive_discography_cdn/20220113_兎田ぺこら_いいわけバニー/01_いいわけバニー.flac
+./hololive/hololive_discography_cdn/20220113_兎田ぺこら_いいわけバニー/02_いいわけバニー (Instrumental).flac
+./hololive/hololive_discography_cdn/20220113_兎田ぺこら_いいわけバニー/5000x5000bb.png
+./hololive/hololive_discography_cdn/20220113_兎田ぺこら_いいわけバニー/Cover.jpg
+./hololive/hololive_discography_cdn/20220114_hololive English -Myth-_Journey Like a Thousand Years ～千年の旅～/01_Journey Like a Thousand Years 千年の旅.flac
+./hololive/hololive_discography_cdn/20220114_hololive English -Myth-_Journey Like a Thousand Years ～千年の旅～/02_Journey Like a Thousand Years 千年の旅 -Instrumental-.flac
+./hololive/hololive_discography_cdn/20220114_hololive English -Myth-_Journey Like a Thousand Years ～千年の旅～/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220114_hololive English -Myth-_Journey Like a Thousand Years ～千年の旅～/cover.jpg
+./hololive/hololive_discography_cdn/20220118_常闇トワ_AKUMA/01_AKUMA.flac
+./hololive/hololive_discography_cdn/20220118_常闇トワ_AKUMA/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220118_常闇トワ_AKUMA/Cover.jpg
+./hololive/hololive_discography_cdn/20220121_Ouro Kronii_Daydream/01_Daydream.flac
+./hololive/hololive_discography_cdn/20220121_Ouro Kronii_Daydream/02_Daydream (Instrumental).flac
+./hololive/hololive_discography_cdn/20220121_Ouro Kronii_Daydream/Daydream_jk.png
+./hololive/hololive_discography_cdn/20220121_Ouro Kronii_Daydream/cover.jpg
+./hololive/hololive_discography_cdn/20220123_潤羽るしあ_思ひ恋ふ/01_思ひ恋ふ.flac
+./hololive/hololive_discography_cdn/20220123_潤羽るしあ_思ひ恋ふ/02_思ひ恋ふ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220123_潤羽るしあ_思ひ恋ふ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220123_潤羽るしあ_思ひ恋ふ/Cover.jpg
+./hololive/hololive_discography_cdn/20220124_湊あくあ_あくたんのこと好きすぎ☆ソング／For The Win (2022 ver.)/01_あくたんのこと好きすぎ☆ソング.flac
+./hololive/hololive_discography_cdn/20220124_湊あくあ_あくたんのこと好きすぎ☆ソング／For The Win (2022 ver.)/02_For The Win (2022 ver.).flac
+./hololive/hololive_discography_cdn/20220124_湊あくあ_あくたんのこと好きすぎ☆ソング／For The Win (2022 ver.)/03_あくたんのこと好きすぎ☆ソング (Instrumental).flac
+./hololive/hololive_discography_cdn/20220124_湊あくあ_あくたんのこと好きすぎ☆ソング／For The Win (2022 ver.)/04_For The Win (2022 ver.) (Instrumental).flac
+./hololive/hololive_discography_cdn/20220124_湊あくあ_あくたんのこと好きすぎ☆ソング／For The Win (2022 ver.)/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220124_湊あくあ_あくたんのこと好きすぎ☆ソング／For The Win (2022 ver.)/Cover.jpg
+./hololive/hololive_discography_cdn/20220129_湊あくあ_♡あくあたいむ・せれくと♡/01_海想列車.flac
+./hololive/hololive_discography_cdn/20220129_湊あくあ_♡あくあたいむ・せれくと♡/02_あいわな.flac
+./hololive/hololive_discography_cdn/20220129_湊あくあ_♡あくあたいむ・せれくと♡/03_uni-birth.flac
+./hololive/hololive_discography_cdn/20220129_湊あくあ_♡あくあたいむ・せれくと♡/04_きらきら.flac
+./hololive/hololive_discography_cdn/20220129_湊あくあ_♡あくあたいむ・せれくと♡/3308x3308bb.png
+./hololive/hololive_discography_cdn/20220129_湊あくあ_♡あくあたいむ・せれくと♡/Cover.jpg
+./hololive/hololive_discography_cdn/20220129_湊あくあ_あいわな/01_あいわな.flac
+./hololive/hololive_discography_cdn/20220129_湊あくあ_あいわな/02_あいわな (Instrumental).flac
+./hololive/hololive_discography_cdn/20220129_湊あくあ_あいわな/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220129_湊あくあ_あいわな/Cover.jpg
+./hololive/hololive_discography_cdn/20220130_姫森ルーナ_絶対忠誠♡なのなのら！/01_絶対忠誠♡なのなのら！.flac
+./hololive/hololive_discography_cdn/20220130_姫森ルーナ_絶対忠誠♡なのなのら！/02_絶対忠誠♡なのなのら！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220130_姫森ルーナ_絶対忠誠♡なのなのら！/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220130_姫森ルーナ_絶対忠誠♡なのなのら！/Cover.jpg
+./hololive/hololive_discography_cdn/20220131_尾丸ポルカ_Pastel Tea Time／ペルソナ/01_Pastel Tea Time.flac
+./hololive/hololive_discography_cdn/20220131_尾丸ポルカ_Pastel Tea Time／ペルソナ/02_ペルソナ.flac
+./hololive/hololive_discography_cdn/20220131_尾丸ポルカ_Pastel Tea Time／ペルソナ/03_Pastel Tea Time (Instrumental).flac
+./hololive/hololive_discography_cdn/20220131_尾丸ポルカ_Pastel Tea Time／ペルソナ/04_ペルソナ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220131_尾丸ポルカ_Pastel Tea Time／ペルソナ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220131_尾丸ポルカ_Pastel Tea Time／ペルソナ/Cover.jpg
+./hololive/hololive_discography_cdn/20220205_Mori Calliope×Gawr Gura_Q/01_Q.flac
+./hololive/hololive_discography_cdn/20220205_Mori Calliope×Gawr Gura_Q/02_Q (Instrumental).flac
+./hololive/hololive_discography_cdn/20220205_Mori Calliope×Gawr Gura_Q/1_album.png
+./hololive/hololive_discography_cdn/20220205_Mori Calliope×Gawr Gura_Q/cover.jpg
+./hololive/hololive_discography_cdn/20220215_癒月ちょこ_Secret Class/01_Secret Class.flac
+./hololive/hololive_discography_cdn/20220215_癒月ちょこ_Secret Class/02_Secret Class (Instrumental).flac
+./hololive/hololive_discography_cdn/20220215_癒月ちょこ_Secret Class/Cover.jpg
+./hololive/hololive_discography_cdn/20220216_Moona Hoshinova_High Tide/01_High Tide.flac
+./hololive/hololive_discography_cdn/20220216_Moona Hoshinova_High Tide/02_High Tide (Instrumental).flac
+./hololive/hololive_discography_cdn/20220216_Moona Hoshinova_High Tide/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220216_Moona Hoshinova_High Tide/cover.jpg
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/01_The Grim Reaper is a Live-Streamer (Lofi Ver.).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/02_Red (Lofi Ver.).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/03_guh (Lofi Ver.).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/04_いじめっ子Bully (Lofi Ver.).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/05_The Grim Reaper is a Live-Streamer (Lofi Ver. Instrumental).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/06_Red (Lofi Ver. Instrumental).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/07_guh (Lofi Ver. Instrumental).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/08_いじめっ子Bully (Lofi Ver. Instrumental).flac
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/3126x3126bb.png
+./hololive/hololive_discography_cdn/20220222_Mori Calliope_Your Mori. LO-FI ALBUM/cover.jpg
+./hololive/hololive_discography_cdn/20220222_ときのそら_KumoHurray!／花時の空/01_KumoHurray!.flac
+./hololive/hololive_discography_cdn/20220222_ときのそら_KumoHurray!／花時の空/02_花時の空.flac
+./hololive/hololive_discography_cdn/20220222_ときのそら_KumoHurray!／花時の空/1400x1400bb.png
+./hololive/hololive_discography_cdn/20220222_ときのそら_KumoHurray!／花時の空/cover.jpg
+./hololive/hololive_discography_cdn/20220223_猫又おかゆ_デタバレネコ/01_デタバレネコ.flac
+./hololive/hololive_discography_cdn/20220223_猫又おかゆ_デタバレネコ/02_デタバレネコ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220223_猫又おかゆ_デタバレネコ/4500x4500bb.png
+./hololive/hololive_discography_cdn/20220223_猫又おかゆ_デタバレネコ/cover.jpg
+./hololive/hololive_discography_cdn/20220227_IRyS_See the world/01_See the world.flac
+./hololive/hololive_discography_cdn/20220227_IRyS_See the world/02_See the world (Instrumental).flac
+./hololive/hololive_discography_cdn/20220227_IRyS_See the world/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220227_IRyS_See the world/cover.jpg
+./hololive/hololive_discography_cdn/20220301_Hakos Baelz_Play Dice!/01_Play Dice!.flac
+./hololive/hololive_discography_cdn/20220301_Hakos Baelz_Play Dice!/02_Play Dice! (Instrumental).flac
+./hololive/hololive_discography_cdn/20220301_Hakos Baelz_Play Dice!/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220301_Hakos Baelz_Play Dice!/Cover.jpg
+./hololive/hololive_discography_cdn/20220312_常闇トワ_born to be real/01_born to be real.flac
+./hololive/hololive_discography_cdn/20220312_常闇トワ_born to be real/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220312_常闇トワ_born to be real/Cover.jpg
+./hololive/hololive_discography_cdn/20220315_Airani Iofifteen_Q&A=E/01_Q&A=E.flac
+./hololive/hololive_discography_cdn/20220315_Airani Iofifteen_Q&A=E/02_Q&A=E (Instrumental).flac
+./hololive/hololive_discography_cdn/20220315_Airani Iofifteen_Q&A=E/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220315_Airani Iofifteen_Q&A=E/cover.jpg
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/01_UnAlive.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/02_Q ft. Gawr Gura.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/03_Dead On Arrival.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/04_Graveyard Shift ft. BOOGEY VOXX.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/05_Lose-Lose Days.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/06_HUGE W.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/07_Resting Power.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/08_Scuffed Up Age.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/09_Ouroboros.flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/10_UnAlive (Japanese Version).flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/11_UnAlive (Instrumental).flac
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/3898x3898bb.png
+./hololive/hololive_discography_cdn/20220321_Mori Calliope_UnAlive/cover.jpg
+./hololive/hololive_discography_cdn/20220331_IRyS_あかつきと花/01_あかつきと花.flac
+./hololive/hololive_discography_cdn/20220331_IRyS_あかつきと花/02_あかつきと花 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220331_IRyS_あかつきと花/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220331_IRyS_あかつきと花/Cover.jpg
+./hololive/hololive_discography_cdn/20220401_星街すいせい_TEMPLATE／Wicked feat. Mori Calliope/01_TEMPLATE.flac
+./hololive/hololive_discography_cdn/20220401_星街すいせい_TEMPLATE／Wicked feat. Mori Calliope/02_Wicked.flac
+./hololive/hololive_discography_cdn/20220401_星街すいせい_TEMPLATE／Wicked feat. Mori Calliope/03_TEMPLATE (Instrumental).flac
+./hololive/hololive_discography_cdn/20220401_星街すいせい_TEMPLATE／Wicked feat. Mori Calliope/04_Wicked (Instrumental).flac
+./hololive/hololive_discography_cdn/20220401_星街すいせい_TEMPLATE／Wicked feat. Mori Calliope/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220401_星街すいせい_TEMPLATE／Wicked feat. Mori Calliope/Cover.jpg
+./hololive/hololive_discography_cdn/20220404_Mori Calliope×星街すいせい_CapSule/01_CapSule.flac
+./hololive/hololive_discography_cdn/20220404_Mori Calliope×星街すいせい_CapSule/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220404_Mori Calliope×星街すいせい_CapSule/Cover.jpg
+./hololive/hololive_discography_cdn/20220415_いろはにほへっと あやふぶみ_鬼灯日和/01_鬼灯日和.flac
+./hololive/hololive_discography_cdn/20220415_いろはにほへっと あやふぶみ_鬼灯日和/02_鬼灯日和 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220415_いろはにほへっと あやふぶみ_鬼灯日和/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220415_いろはにほへっと あやふぶみ_鬼灯日和/Cover.jpg
+./hololive/hololive_discography_cdn/20220416_hololive Indonesia 1st Generation_HI-15/01_HI-15.flac
+./hololive/hololive_discography_cdn/20220416_hololive Indonesia 1st Generation_HI-15/02_HI-15 (Japanese ver.).flac
+./hololive/hololive_discography_cdn/20220416_hololive Indonesia 1st Generation_HI-15/03_HI-15 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220416_hololive Indonesia 1st Generation_HI-15/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220417_戌神ころね_Doggy god's street/01_Doggy god's street.flac
+./hololive/hololive_discography_cdn/20220417_戌神ころね_Doggy god's street/02_Doggy god's street (Instrumental).flac
+./hololive/hololive_discography_cdn/20220417_戌神ころね_Doggy god's street/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220417_戌神ころね_Doggy god's street/Cover.jpg
+./hololive/hololive_discography_cdn/20220421_天音かなた_中空の庭/01_中空の庭.flac
+./hololive/hololive_discography_cdn/20220421_天音かなた_中空の庭/02_中空の庭 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220421_天音かなた_中空の庭/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220421_天音かなた_中空の庭/Cover.jpg
+./hololive/hololive_discography_cdn/20220422_角巻わため_君色ハナミズキ/01_君色ハナミズキ.flac
+./hololive/hololive_discography_cdn/20220422_角巻わため_君色ハナミズキ/02_君色ハナミズキ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220422_角巻わため_君色ハナミズキ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220422_角巻わため_君色ハナミズキ/Cover.jpg
+./hololive/hololive_discography_cdn/20220428_宝鐘マリン_マリン出航!!/01_マリン出航!!.flac
+./hololive/hololive_discography_cdn/20220428_宝鐘マリン_マリン出航!!/02_マリン出航!! (Instrumental).flac
+./hololive/hololive_discography_cdn/20220428_宝鐘マリン_マリン出航!!/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220428_宝鐘マリン_マリン出航!!/Cover.jpg
+./hololive/hololive_discography_cdn/20220430_IRyS_心臓が止まるまで/01_心臓が止まるまで.flac
+./hololive/hololive_discography_cdn/20220430_IRyS_心臓が止まるまで/02_心臓が止まるまで (Instrumental).flac
+./hololive/hololive_discography_cdn/20220430_IRyS_心臓が止まるまで/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220430_IRyS_心臓が止まるまで/cover.jpg
+./hololive/hololive_discography_cdn/20220502_ORIO_Over Time/01_Over Time.flac
+./hololive/hololive_discography_cdn/20220502_ORIO_Over Time/02_Over Time (Instrumental).flac
+./hololive/hololive_discography_cdn/20220502_ORIO_Over Time/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220502_ORIO_Over Time/Cover.jpg
+./hololive/hololive_discography_cdn/20220514_夜空メル_キャラメル・デビル/01_キャラメル・デビル.flac
+./hololive/hololive_discography_cdn/20220514_夜空メル_キャラメル・デビル/02_キャラメル・デビル (Instrumental).flac
+./hololive/hololive_discography_cdn/20220514_夜空メル_キャラメル・デビル/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220514_夜空メル_キャラメル・デビル/Cover.jpg
+./hololive/hololive_discography_cdn/20220516_Ceres Fauna_Let Me Stay Here/01_Let Me Stay Here.flac
+./hololive/hololive_discography_cdn/20220516_Ceres Fauna_Let Me Stay Here/02_Let Me Stay Here (Instrumental).flac
+./hololive/hololive_discography_cdn/20220516_Ceres Fauna_Let Me Stay Here/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220516_Ceres Fauna_Let Me Stay Here/cover.jpg
+./hololive/hololive_discography_cdn/20220518_Mori Calliope_MERA MERA/01_MERA MERA.flac
+./hololive/hololive_discography_cdn/20220518_Mori Calliope_MERA MERA/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220518_Mori Calliope_MERA MERA/Cover.jpg
+./hololive/hololive_discography_cdn/20220524_ロボ子さん_リルビ/01_リルビ.flac
+./hololive/hololive_discography_cdn/20220524_ロボ子さん_リルビ/02_リルビ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220524_ロボ子さん_リルビ/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220524_ロボ子さん_リルビ/Cover.jpg
+./hololive/hololive_discography_cdn/20220525_ラプラス・ダークネス_合縁事変/01_合縁事変.flac
+./hololive/hololive_discography_cdn/20220525_ラプラス・ダークネス_合縁事変/02_合縁事変 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220525_ラプラス・ダークネス_合縁事変/Cover.png
+./hololive/hololive_discography_cdn/20220528_猫又おかゆ_毒の王子さま/01_毒の王子さま.flac
+./hololive/hololive_discography_cdn/20220528_猫又おかゆ_毒の王子さま/02_毒の王子さま (Instrumental).flac
+./hololive/hololive_discography_cdn/20220528_猫又おかゆ_毒の王子さま/3000x3000bb.png
+./hololive/hololive_discography_cdn/20220528_猫又おかゆ_毒の王子さま/cover.jpg
+./hololive/hololive_discography_cdn/20220529_Takanashi Kiara_Fever Night/01_Fever Night.flac
+./hololive/hololive_discography_cdn/20220529_Takanashi Kiara_Fever Night/02_Fever Night (Instrumental).flac
+./hololive/hololive_discography_cdn/20220529_Takanashi Kiara_Fever Night/cover.jpg
+./hololive/hololive_discography_cdn/20220529_Takanashi Kiara_Fever Night/jkt.png
+./hololive/hololive_discography_cdn/20220601_NEGI☆U_ねぎゆーのパないうた/01_PANIGHT.flac
+./hololive/hololive_discography_cdn/20220601_NEGI☆U_ねぎゆーのパないうた/02_ドヤっとVピース☆.flac
+./hololive/hololive_discography_cdn/20220601_NEGI☆U_ねぎゆーのパないうた/03_ナンデダメナン‛？.flac
+./hololive/hololive_discography_cdn/20220601_NEGI☆U_ねぎゆーのパないうた/04_よくばりキュートガール.flac
+./hololive/hololive_discography_cdn/20220601_NEGI☆U_ねぎゆーのパないうた/3092x3092bb.png
+./hololive/hololive_discography_cdn/20220601_NEGI☆U_ねぎゆーのパないうた/Cover.jpg
+./hololive/hololive_discography_cdn/20220602_アキ・ローゼンタール_ROSE of the LAMP/01_ROSE of the LAMP.flac
+./hololive/hololive_discography_cdn/20220602_アキ・ローゼンタール_ROSE of the LAMP/02_ROSE of the LAMP (Instrumental).flac
+./hololive/hololive_discography_cdn/20220602_アキ・ローゼンタール_ROSE of the LAMP/4582622503931_art.png
+./hololive/hololive_discography_cdn/20220602_アキ・ローゼンタール_ROSE of the LAMP/Cover.jpg
+./hololive/hololive_discography_cdn/20220603_白上フブキ_KINGWORLD/01_KINGWORLD.flac
+./hololive/hololive_discography_cdn/20220603_白上フブキ_KINGWORLD/02_KINGWORLD (Instrumental).flac
+./hololive/hololive_discography_cdn/20220603_白上フブキ_KINGWORLD/kingworld_jacket_20220602.png
+./hololive/hololive_discography_cdn/20220606_いろはにほへっと あやふぶみ_恋情詩歌/01_ 恋情詩歌.flac
+./hololive/hololive_discography_cdn/20220606_いろはにほへっと あやふぶみ_恋情詩歌/02_恋情詩歌 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220606_いろはにほへっと あやふぶみ_恋情詩歌/Cover.jpg
+./hololive/hololive_discography_cdn/20220606_いろはにほへっと あやふぶみ_恋情詩歌/ayfbm_renjoshiika_jacket_0526fix.png
+./hololive/hololive_discography_cdn/20220607_角巻わため_夢見る羊/01_夢見る羊.flac
+./hololive/hololive_discography_cdn/20220607_角巻わため_夢見る羊/02_夢見る羊 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220607_角巻わため_夢見る羊/4582622504020_art.png
+./hololive/hololive_discography_cdn/20220607_角巻わため_夢見る羊/Cover.jpg
+./hololive/hololive_discography_cdn/20220617_博衣こより_WAO!!/01_WAO!!.flac
+./hololive/hololive_discography_cdn/20220617_博衣こより_WAO!!/02_WAO!! (Instrumental).flac
+./hololive/hololive_discography_cdn/20220617_博衣こより_WAO!!/4582622504228_art.png
+./hololive/hololive_discography_cdn/20220617_博衣こより_WAO!!/Cover.jpg
+./hololive/hololive_discography_cdn/20220620_不知火フレア_全力ジャンピング！/01_全力ジャンピング！.flac
+./hololive/hololive_discography_cdn/20220620_不知火フレア_全力ジャンピング！/02_全力ジャンピング！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220620_不知火フレア_全力ジャンピング！/4582622504273_art.jpg
+./hololive/hololive_discography_cdn/20220620_不知火フレア_全力ジャンピング！/Cover.jpg
+./hololive/hololive_discography_cdn/20220622_鷹嶺ルイ_オーバード/82622504310_art.jpg
+./hololive/hololive_discography_cdn/20220622_鷹嶺ルイ_オーバード/_オーバード (Instrumental).flac
+./hololive/hololive_discography_cdn/20220622_鷹嶺ルイ_オーバード/_オーバード.flac
+./hololive/hololive_discography_cdn/20220622_鷹嶺ルイ_オーバード/ver.jpg
+./hololive/hololive_discography_cdn/20220624_夜空メル_流れ星☆キラキラ/01_流れ星☆キラキラ.flac
+./hololive/hololive_discography_cdn/20220624_夜空メル_流れ星☆キラキラ/02_流れ星☆キラキラ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220624_夜空メル_流れ星☆キラキラ/4582622504341_art.png
+./hololive/hololive_discography_cdn/20220624_夜空メル_流れ星☆キラキラ/Cover.jpg
+./hololive/hololive_discography_cdn/20220627_Mori Calliope_Holy嫉妬/01_Holy嫉妬.flac
+./hololive/hololive_discography_cdn/20220627_Mori Calliope_Holy嫉妬/22UMGIM59352.rgb.jpg
+./hololive/hololive_discography_cdn/20220627_Mori Calliope_Holy嫉妬/Cover.jpg
+./hololive/hololive_discography_cdn/20220627_バカタレ共_進め↑BAKATARATION/01_進め↑BAKATARATION.flac
+./hololive/hololive_discography_cdn/20220627_バカタレ共_進め↑BAKATARATION/02_進め↑BAKATARATION (Instrumental).flac
+./hololive/hololive_discography_cdn/20220627_バカタレ共_進め↑BAKATARATION/Cover.jpg
+./hololive/hololive_discography_cdn/20220627_バカタレ共_進め↑BAKATARATION/jacket_3000px.png
+./hololive/hololive_discography_cdn/20220629_IRyS_One Step at a Time/01_One Step at a Time.flac
+./hololive/hololive_discography_cdn/20220629_IRyS_One Step at a Time/02_One Step at a Time (Instrumental).flac
+./hololive/hololive_discography_cdn/20220629_IRyS_One Step at a Time/4582622504389_art.png
+./hololive/hololive_discography_cdn/20220629_IRyS_One Step at a Time/Cover.jpg
+./hololive/hololive_discography_cdn/20220701_猫又おかゆ_アデュー、サロー/01_アデュー、サロー.flac
+./hololive/hololive_discography_cdn/20220701_猫又おかゆ_アデュー、サロー/02_アデュー、サロー (Instrumental).flac
+./hololive/hololive_discography_cdn/20220701_猫又おかゆ_アデュー、サロー/4582622504457_art.png
+./hololive/hololive_discography_cdn/20220701_猫又おかゆ_アデュー、サロー/cover.jpg
+./hololive/hololive_discography_cdn/20220703_大空スバル_サマーハイヒール/01_サマーハイヒール.flac
+./hololive/hololive_discography_cdn/20220703_大空スバル_サマーハイヒール/02_サマーハイヒール (Instrumental).flac
+./hololive/hololive_discography_cdn/20220703_大空スバル_サマーハイヒール/Cover.jpg
+./hololive/hololive_discography_cdn/20220703_大空スバル_サマーハイヒール/Summer-high-heels_jacket.png
+./hololive/hololive_discography_cdn/20220704_AZKi_afterglow/01_afterglow.flac
+./hololive/hololive_discography_cdn/20220704_AZKi_afterglow/02_afterglow (Instrumental).flac
+./hololive/hololive_discography_cdn/20220704_AZKi_afterglow/AZKi_afterglow.png
+./hololive/hololive_discography_cdn/20220704_AZKi_afterglow/Cover.jpg
+./hololive/hololive_discography_cdn/20220706_ときのそら_そらのとき/01_そらのとき.flac
+./hololive/hololive_discography_cdn/20220706_ときのそら_そらのとき/Cover.jpg
+./hololive/hololive_discography_cdn/20220706_ときのそら_そらのとき/VEATP-40011.jpg
+./hololive/hololive_discography_cdn/20220711_IRyS_Quarter Bravery/01_Delight.flac
+./hololive/hololive_discography_cdn/20220711_IRyS_Quarter Bravery/02_BERSERKER.flac
+./hololive/hololive_discography_cdn/20220711_IRyS_Quarter Bravery/03_哀の十界.flac
+./hololive/hololive_discography_cdn/20220711_IRyS_Quarter Bravery/04_ENJOY! JOY!! JOYFUL!!!.flac
+./hololive/hololive_discography_cdn/20220711_IRyS_Quarter Bravery/Cover.jpg
+./hololive/hololive_discography_cdn/20220711_IRyS_Quarter Bravery/jkt.png
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/01_Hollow life.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/02_Lobelia.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/03_Damage.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/04_記憶ノ色トハ.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/05_Inner Voice.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/06_Memories.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/07_群青の後悔.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/08_Shiny Smily Story -ERROR Arrange-.flac
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/4580789480232.png
+./hololive/hololive_discography_cdn/20220718_hololive ERROR_hololive ERROR -soundtrack-/Cover.jpg
+./hololive/hololive_discography_cdn/20220718_兎田ぺこら_ララララビット!!/01_ララララビット!!.flac
+./hololive/hololive_discography_cdn/20220718_兎田ぺこら_ララララビット!!/02_ララララビット!! (Instrumental).flac
+./hololive/hololive_discography_cdn/20220718_兎田ぺこら_ララララビット!!/4582622504709_art.jpg
+./hololive/hololive_discography_cdn/20220718_兎田ぺこら_ララララビット!!/Cover.jpg
+./hololive/hololive_discography_cdn/20220719_夜空メル_赤くならないで/01_赤くならないで.flac
+./hololive/hololive_discography_cdn/20220719_夜空メル_赤くならないで/02_赤くならないで (Instrumental).flac
+./hololive/hololive_discography_cdn/20220719_夜空メル_赤くならないで/4582622504754_art.png
+./hololive/hololive_discography_cdn/20220719_夜空メル_赤くならないで/Cover.jpg
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/01_CapSule.flac
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/02_MERA MERA.flac
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/03_Kamouflage.flac
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/04_Make 'Em Afraid.flac
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/05_Holy嫉妬.flac
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/06_Let's End the World.flac
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/22UMGIM59352.rgb.jpg
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/Cover_01.jpg
+./hololive/hololive_discography_cdn/20220720_Mori Calliope_SHINIGAMI NOTE/Cover_02.jpg
+./hololive/hololive_discography_cdn/20220723_夏色まつり_ネバギバ夏色ストーリー！/01_ネバギバ夏色ストーリー！.flac
+./hololive/hololive_discography_cdn/20220723_夏色まつり_ネバギバ夏色ストーリー！/02_ネバギバ夏色ストーリー！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220723_夏色まつり_ネバギバ夏色ストーリー！/4582622504853_art.png
+./hololive/hololive_discography_cdn/20220723_夏色まつり_ネバギバ夏色ストーリー！/Cover.jpg
+./hololive/hololive_discography_cdn/20220725_猫又おかゆ_毒杯スワロウ/82622504877_art.jpg
+./hololive/hololive_discography_cdn/20220725_猫又おかゆ_毒杯スワロウ/_毒杯スワロウ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220725_猫又おかゆ_毒杯スワロウ/_毒杯スワロウ.flac
+./hololive/hololive_discography_cdn/20220725_猫又おかゆ_毒杯スワロウ/ver.jpg
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/01_Never Ending Midnights.flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/02_SOS.flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/03_Allegro.flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/04_Rat A Tat.flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/05_Tuning (Interlude).flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/06_流星群.flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/07_Highway.flac
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/TFCC-86869WW.jpg
+./hololive/hololive_discography_cdn/20220727_Midnight Grand Orchestra_Overture/cover.jpg
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/01_Over Time.flac
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/02_Like a Phoenix.flac
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/03_Pray.flac
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/04_Over Time (Instrumental).flac
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/05_Like a Phoenix (Instrumental).flac
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/06_Pray (Instrumental).flac
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/4582622505041_art.png
+./hololive/hololive_discography_cdn/20220730_ORIO_Over Time/Cover.jpg
+./hololive/hololive_discography_cdn/20220731_宝鐘マリン_I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。/01_I'm Your Treasure Box ‛＊あなたは マリンせんちょうを たからばこからみつけた。.flac
+./hololive/hololive_discography_cdn/20220731_宝鐘マリン_I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。/02_I'm Your Treasure Box ‛＊あなたは マリンせんちょうを たからばこからみつけた。 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220731_宝鐘マリン_I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。/4582622504716_art.jpg
+./hololive/hololive_discography_cdn/20220731_宝鐘マリン_I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。/Cover.jpg
+./hololive/hololive_discography_cdn/20220802_さくらみこ_ベイビーダンス/01_ベイビーダンス.flac
+./hololive/hololive_discography_cdn/20220802_さくらみこ_ベイビーダンス/02_ベイビーダンス (Instrumental).flac
+./hololive/hololive_discography_cdn/20220802_さくらみこ_ベイビーダンス/220610_babydance_D_JKT_RGB.jpg
+./hololive/hololive_discography_cdn/20220802_さくらみこ_ベイビーダンス/Cover.jpg
+./hololive/hololive_discography_cdn/20220806_AZKi_petrichor/01_petrichor.flac
+./hololive/hololive_discography_cdn/20220806_AZKi_petrichor/02_petrichor (Instrumental).flac
+./hololive/hololive_discography_cdn/20220806_AZKi_petrichor/4582622505171_art.jpg
+./hololive/hololive_discography_cdn/20220806_AZKi_petrichor/Cover.jpg
+./hololive/hololive_discography_cdn/20220808_不知火フレア_フレ！フレ！エルフレ！/01_フレ！フレ！エルフレ！.flac
+./hololive/hololive_discography_cdn/20220808_不知火フレア_フレ！フレ！エルフレ！/02_フレ！フレ！エルフレ！ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220808_不知火フレア_フレ！フレ！エルフレ！/Cover.jpg
+./hololive/hololive_discography_cdn/20220808_不知火フレア_フレ！フレ！エルフレ！/dj.ynlmvhmw.png
+./hololive/hololive_discography_cdn/20220809_湊あくあ_未だ、青い/01_未だ、青い.flac
+./hololive/hololive_discography_cdn/20220809_湊あくあ_未だ、青い/02_未だ、青い (Instrumental).flac
+./hololive/hololive_discography_cdn/20220809_湊あくあ_未だ、青い/3000px_f_1.jpg
+./hololive/hololive_discography_cdn/20220809_湊あくあ_未だ、青い/Cover.jpg
+./hololive/hololive_discography_cdn/20220813_雪花ラミィ_Fleur/01_Fleur.flac
+./hololive/hololive_discography_cdn/20220813_雪花ラミィ_Fleur/02_Fleur (Instrumental).flac
+./hololive/hololive_discography_cdn/20220813_雪花ラミィ_Fleur/Cover.jpg
+./hololive/hololive_discography_cdn/20220814_沙花叉クロヱ_人生リセットボタンぽちーw/01_人生リセットボタンぽちーw.flac
+./hololive/hololive_discography_cdn/20220814_沙花叉クロヱ_人生リセットボタンぽちーw/02_人生リセットボタンぽちーw (Instrumental).flac
+./hololive/hololive_discography_cdn/20220814_沙花叉クロヱ_人生リセットボタンぽちーw/Cover.png
+./hololive/hololive_discography_cdn/20220815_獅白ぼたん_I I I Love You/01_I I I Love You.flac
+./hololive/hololive_discography_cdn/20220815_獅白ぼたん_I I I Love You/02_I I I Love You (Instrumental).flac
+./hololive/hololive_discography_cdn/20220815_獅白ぼたん_I I I Love You/Cover.jpg
+./hololive/hololive_discography_cdn/20220817_尾丸ポルカ_サイキョウチックポルカ/01_サイキョウチックポルカ.flac
+./hololive/hololive_discography_cdn/20220817_尾丸ポルカ_サイキョウチックポルカ/02_サイキョウチックポルカ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220817_尾丸ポルカ_サイキョウチックポルカ/Cover.jpg
+./hololive/hololive_discography_cdn/20220818_紫咲シオン_シャンデリア/01_シャンデリア.flac
+./hololive/hololive_discography_cdn/20220818_紫咲シオン_シャンデリア/02_シャンデリア (Instrumental).flac
+./hololive/hololive_discography_cdn/20220818_紫咲シオン_シャンデリア/Cover.jpg
+./hololive/hololive_discography_cdn/20220819_hololive IDOL PROJECT_飛んでK！ホロライブサマー/01_飛んでK！ホロライブサマー.flac
+./hololive/hololive_discography_cdn/20220819_hololive IDOL PROJECT_飛んでK！ホロライブサマー/02_飛んでK！ホロライブサマー (Instrumental).flac
+./hololive/hololive_discography_cdn/20220819_hololive IDOL PROJECT_飛んでK！ホロライブサマー/Cover.jpg
+./hololive/hololive_discography_cdn/20220822_hololive IDOL PROJECT_ホロメン音頭/01_ホロメン音頭.flac
+./hololive/hololive_discography_cdn/20220822_hololive IDOL PROJECT_ホロメン音頭/02_ホロメン音頭 (Instrumental).flac
+./hololive/hololive_discography_cdn/20220822_hololive IDOL PROJECT_ホロメン音頭/Cover.jpg
+./hololive/hololive_discography_cdn/20220824_hololive English -Council-_Rise/01_Rise.flac
+./hololive/hololive_discography_cdn/20220824_hololive English -Council-_Rise/02_Rise (Instrumental).flac
+./hololive/hololive_discography_cdn/20220824_hololive English -Council-_Rise/Cover.jpg
+./hololive/hololive_discography_cdn/20220824_ときのそら_ポラリスソラリス/01_ポラリスソラリス.flac
+./hololive/hololive_discography_cdn/20220824_ときのそら_ポラリスソラリス/Cover.jpg
+./hololive/hololive_discography_cdn/20220824_尾丸ポルカ_屋根裏のエピローグ/01_屋根裏のエピローグ.flac
+./hololive/hololive_discography_cdn/20220824_尾丸ポルカ_屋根裏のエピローグ/02_屋根裏のエピローグ (Instrumental).flac
+./hololive/hololive_discography_cdn/20220824_尾丸ポルカ_屋根裏のエピローグ/Cover.jpg
+./hololive/hololive_discography_cdn/20220828_白銀ノエル_OURS/01_OURS.flac
+./hololive/hololive_discography_cdn/20220828_白銀ノエル_OURS/02_OURS (Acoustic & Piano Ver.).flac
+./hololive/hololive_discography_cdn/20220828_白銀ノエル_OURS/03_OURS (Instrumental).flac
+./hololive/hololive_discography_cdn/20220828_白銀ノエル_OURS/04_OURS (Acoustic & Piano Ver. Instrumental).flac
+./hololive/hololive_discography_cdn/20220828_白銀ノエル_OURS/Cover.jpg
+./hololive/hololive_discography_cdn/20220829_UMISEA_りゅーーっときてきゅーーっ!!!/01_りゅーーっときてきゅーーっ!!!.flac
+./hololive/hololive_discography_cdn/20220829_UMISEA_りゅーーっときてきゅーーっ!!!/02_りゅーーっときてきゅーーっ!!! (Instrumental).flac
+./hololive/hololive_discography_cdn/20220829_UMISEA_りゅーーっときてきゅーーっ!!!/Cover.jpg
+./hololive/hololive_discography_cdn/20220830_IRyS_Gravity/01_Gravity.flac
+./hololive/hololive_discography_cdn/20220830_IRyS_Gravity/02_Gravity (Instrumental).flac
+./hololive/hololive_discography_cdn/20220830_IRyS_Gravity/Cover.jpg
+./hololive/hololive_discography_cdn/20220831_尾丸ポルカ_HOLOGRAM CIRCUS/01_HOLOGRAM CIRCUS.flac
+./hololive/hololive_discography_cdn/20220831_尾丸ポルカ_HOLOGRAM CIRCUS/02_HOLOGRAM CIRCUS (Instrumental).flac
+./hololive/hololive_discography_cdn/20220831_尾丸ポルカ_HOLOGRAM CIRCUS/Cover.jpg
+./hololive/hololive_discography_cdn/20220905_癒月ちょこ_NoDistance/01_NoDistance.flac
+./hololive/hololive_discography_cdn/20220905_癒月ちょこ_NoDistance/02_NoDistance (Instrumental).flac
+./hololive/hololive_discography_cdn/20220905_癒月ちょこ_NoDistance/Cover.jpg
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/01_もぐもぐYUMMY！ (ぽいずにゃ～しんどろーむ Ver.).flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/02_Grrr Grrr Tummy.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/03_あっかんべ.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/04_パボ.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/05_アデュー、サロー (ぽいずにゃ～しんどろーむ Ver.).flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/06_毒の王子さま (ぽいずにゃ～しんどろーむ Ver.).flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/07_カミサマ・ネコサマ.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/08_毒杯スワロウ (ぽいずにゃ～しんどろーむ Ver.).flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/09_琥珀糖.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/10_デタバレネコ (ぽいずにゃ～しんどろーむ Ver.).flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/11_Lazyroop.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/12_ORANGE PARADE.flac
+./hololive/hololive_discography_cdn/20220906_猫又おかゆ_ぽいずにゃ～しんどろーむ/Cover.jpg
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/01_ピッとして！マーマレード.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/02_ユメゾラ☆ファンファーレ.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/03_ロゴバッジ.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/04_羽を手にして.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/05_空ノ空.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/06_エゴナデ・ラビリンス.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/07_エレクトリカル・サーフィン.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/08_デジタリックリリック.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/09_黄昏ミッドナイト.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/10_メアリースイート.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/11_そらのとき.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/12_ポラリスソラリス.flac
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/Cover_01.jpg
+./hololive/hololive_discography_cdn/20220907_ときのそら_Sign/Cover_02.jpg
+./hololive/hololive_discography_cdn/20220909_夜空メル_夜空のとなりで/01_夜空のとなりで.flac
+./hololive/hololive_discography_cdn/20220909_夜空メル_夜空のとなりで/02_夜空のとなりで (Instrumental).flac
+./hololive/hololive_discography_cdn/20220909_夜空メル_夜空のとなりで/Cover.jpg
+./hololive/hololive_discography_cdn/20220910_Pavolia Reine_Illusion Night/01_Illusion Night.flac
+./hololive/hololive_discography_cdn/20220910_Pavolia Reine_Illusion Night/02_Illusion Night (Instrumental).flac
+./hololive/hololive_discography_cdn/20220910_Pavolia Reine_Illusion Night/Cover.jpg
+./hololive/hololive_discography_cdn/20220914_Midnight Grand Orchestra_Moonlightspeed/01_Moonlightspeed.flac
+./hololive/hololive_discography_cdn/20220914_Midnight Grand Orchestra_Moonlightspeed/Cover.jpg
+./hololive/hololive_discography_cdn/20220919_Takanashi Kiara_DO U/01_DO U.flac
+./hololive/hololive_discography_cdn/20220919_Takanashi Kiara_DO U/02_DO U (Instrumental).flac
+./hololive/hololive_discography_cdn/20220919_Takanashi Kiara_DO U/Cover.jpg
+./hololive/hololive_discography_cdn/20220924_角巻わため×Mori Calliope_Reaper vs. Sheep/01_Reaper vs. Sheep -Kenko Ver.-.flac
+./hololive/hololive_discography_cdn/20220924_角巻わため×Mori Calliope_Reaper vs. Sheep/02_Reaper vs. Sheep -Kenko Ver.- (Instrumental).flac
+./hololive/hololive_discography_cdn/20220924_角巻わため×Mori Calliope_Reaper vs. Sheep/03_Reaper vs. Sheep -Ouen Ver.-.flac
+./hololive/hololive_discography_cdn/20220924_角巻わため×Mori Calliope_Reaper vs. Sheep/04_Reaper vs. Sheep -Ouen Ver.- (Instrumental).flac
+./hololive/hololive_discography_cdn/20220924_角巻わため×Mori Calliope_Reaper vs. Sheep/Cover_1.jpg
+./hololive/hololive_discography_cdn/20220924_角巻わため×Mori Calliope_Reaper vs. Sheep/Cover_2.jpg
+./hololive/hololive_discography_cdn/20220925_AZKi_canopus/01_canopus.flac
+./hololive/hololive_discography_cdn/20220925_AZKi_canopus/02_canopus (Instrumental).flac
+./hololive/hololive_discography_cdn/20220925_AZKi_canopus/Cover.jpg
+./hololive/hololive_discography_cdn/20221001_hololive English -Myth-_Non-Fiction/01_Non-Fiction.flac
+./hololive/hololive_discography_cdn/20221001_hololive English -Myth-_Non-Fiction/02_Non-Fiction (Instrumental).flac
+./hololive/hololive_discography_cdn/20221001_hololive English -Myth-_Non-Fiction/Cover.jpg
+./hololive/hololive_discography_cdn/20221023_桃鈴ねね_Ring-A-Linger/01_Ring-A-Linger.flac
+./hololive/hololive_discography_cdn/20221023_桃鈴ねね_Ring-A-Linger/02_Ring-A-Linger (Instrumental).flac
+./hololive/hololive_discography_cdn/20221023_桃鈴ねね_Ring-A-Linger/Cover.jpg
+./hololive/hololive_discography_cdn/20221030_AZKi_equal/01_equal.flac
+./hololive/hololive_discography_cdn/20221030_AZKi_equal/02_equal (Instrumental).flac
+./hololive/hololive_discography_cdn/20221030_AZKi_equal/Cover.jpg
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/01_流れ星☆キラキラ (Twinkle Star Magic☆ Ver.).flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/02_キャラメル・デビル (Twinkle Star Magic☆ Ver.).flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/03_かぷっとNight☆Sky (Twinkle Star Magic☆ Ver.).flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/04_かぷかぷ♡フィーバーナイト.flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/05_Show Stopper.flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/06_L.T.M..flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/07_赤くならないで (Twinkle Star Magic☆ Ver.).flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/08_夜空のとなりで (Twinkle Star Magic☆ Ver.).flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/09_かぷうぃん中毒 (Twinkle Star Magic☆ Ver.).flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/10_かぷっとNight☆Sky -Trick or Swing Mix-.flac
+./hololive/hololive_discography_cdn/20221101_夜空メル_Twinkle Star Magic☆/Cover.jpg
+./hololive/hololive_discography_cdn/20221105_星街すいせい_灼熱にて純情(wii-wii-woo)/01_灼熱にて純情(wii-wii-woo).flac
+./hololive/hololive_discography_cdn/20221105_星街すいせい_灼熱にて純情(wii-wii-woo)/02_灼熱にて純情(wii-wii-woo) (Instrumental).flac
+./hololive/hololive_discography_cdn/20221105_星街すいせい_灼熱にて純情(wii-wii-woo)/Cover.jpg
